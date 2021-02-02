@@ -1,6 +1,6 @@
 # CAFE
 ## Computational Analysis of gene Family Evolution (CAFE)
-[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/5144)
+[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/5151)
 
 The current build is based on the bioconda distribution of the Hahn Lab CAFE v.4.2.1.
 
